@@ -1,0 +1,19 @@
+{
+  "name": "modulenpm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dreamz11/module.git"
+  },
+  "author": "Akshay <alu0101043739@ull.edu.es> (https://github.com/dreamz11)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dreamz11/module/issues"
+  },
+  "homepage": "https://github.com/dreamz11/module#readme"
+}
